@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Jugo de Zanahoria",
-      "precio": "3111"
+      "precio": "310"
     },
     {
       "nombre": "Jugo de Naranja",
@@ -16,8 +16,8 @@
       "id": 4
     },
     {
-      "nombre": "Jugo de Fresa",
-      "precio": "200",
+      "nombre": "Jugo de fresa",
+      "precio": 400,
       "id": 5
     }
   ]
